@@ -71,6 +71,6 @@ public class Project3
       }
       br.close();
       // Showing a window with the data in it
-      clockGUI.ShowClockData("Project 2 - Clock Times", 400, 400, unsortedClocks, sortedClocks);
+      clockGUI.ShowClockData("Project 3 - Clock Times Link List", 400, 400, unsortedClocks, sortedClocks);
    }
 }
